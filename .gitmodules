@@ -1,6 +1,7 @@
 [submodule "bullet-projects-backend"]
 	path = bullet-projects-backend
 	url = https://github.com/cavu757/bullet-projects-backend
+	
 [submodule "bullet-projects-frontend"]
 	path = bullet-projects-frontend
 	url = https://github.com/cavu757/bullet-projects-frontend
